@@ -48,4 +48,4 @@ FastAPI · Jupyter · Selenium
 
 ## 📬 Связаться
 - GitHub: [github.com/Annflower](https://github.com/Annflower)
-- Telegram: *добавьте свой @username*
+- Telegram: @Ann287
